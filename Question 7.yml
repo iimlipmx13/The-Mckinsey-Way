@@ -1,0 +1,9 @@
+author: Vasudev
+correctOption: '1'
+heading: The-Mckinsey-Way
+optionsList:
+- 'true'
+- 'false'
+questionText: In truth McKinsey is as human as its employees are?
+subheading: Question 7
+type: booleanmcq
