@@ -1,0 +1,10 @@
+author: Vasudev
+correctOption: '2'
+heading: The-Mckinsey-Way
+optionsList:
+- 'true'
+- 'false'
+questionText: The root of all management consulting is not the application of objective
+  analysis by dispassionate outsiders.
+subheading: Question 8
+type: booleanmcq
